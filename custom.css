@@ -1,0 +1,101 @@
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css");
+
+
+body {
+    background-color: #050C11;
+}
+
+#wrap {
+    margin: 0 auto 15px;
+    position: relative;
+    text-align: left;
+    width: 960px;
+    height: 100%;
+    color: #fff !important;
+    min-height: 900px;
+}
+
+code {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+}
+
+/* Boxes */
+
+.box {
+    color: #fff!important;
+    font-size: 1.5rem;
+    background-color: #191F2A!important;
+    border: 3px solid #2E3640!important;
+    text-align: left;
+    text-indent: 25px;
+}
+
+.boxcenter {
+    text-align: center;
+}
+
+.box p {
+    padding-bottom: 5px;
+}
+
+.recbox {
+    width: 95%;
+    background-color: #111;
+    margin: 0.5in auto;
+    color: #fff;
+    text-align: left;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    font-size: 1.5rem;
+    padding: 10px;
+}
+
+
+/* End Boxes */
+
+
+.WritingList li,
+.WritingList {
+    list-style-type: none;
+}
+
+h1 {
+    color: #fff;
+    font-size: large;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+h2 {
+    color: #00653a;
+    font-variant: small-caps;
+}
+
+
+a {
+    color: #76A6A1;
+    text-decoration: none;
+    font-style: italic;
+}
+
+a:hover {
+    color: #A65D56;
+    text-decoration: none;
+    font-style: italic;
+}
+
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+img {
+    border: 0;
+}
