@@ -2,19 +2,18 @@
 
 
 body {background-color: #050C11;}
-#wrap {margin: 0 auto 15px;position: relative;text-align: left;width: 960px;height: 100%;color: #fff !important;min-height: 900px;}
+
+/* Pretty Boxes, Stuff to clean */
 code, pre {padding: 2px 4px;font-size: 90%;color: #c7254e;background-color: #f9f2f4;border-radius: 4px;display: inline-block;}
-
-/* Boxes */
-
 div.post-wrapper{color: #fff!important;background-color: #191F2A; border: 3px solid #2E3640;text-align: left;}
 .post-content blockquote {border-left: 3px solid #2E3640;}
 .panel, .link-wrapper .link {background-color: transparent;}
 .boxcenter {text-align: center;}
 .box p {padding-bottom: 5px;}
 .recbox {width: 95%;background-color: #111;margin: 0.5in auto;color: #fff;text-align: left;border: 1px solid #fff;border-radius: 4px;padding: 10px;}
-
 /* End Boxes */
+
+/* Misc, links, formats */
 .WritingList li,
 .WritingList {list-style-type: none;}
 h1 {color: #fff;font-size: large;text-align: center;font-variant: small-caps;}
