@@ -4,7 +4,7 @@
 body {background-color: #050C11;}
 
 /* Pretty Boxes, Stuff to clean */
-code, pre {padding: 2px 4px;font-size: 90%;color: #c7254e;background-color: #f9f2f4;border-radius: 4px;display: inline-block;}
+code, pre {padding: 2px 4px;font-size: 90%;color: #c7254e;background-color: #f9f2f4;border-radius: 4px;display: inline-block;margin:5px}
 div.post-wrapper{color: #fff!important;background-color: #191F2A; border: 3px solid #2E3640;text-align: left;}
 .post-content blockquote {border-left: 3px solid #2E3640;}
 .panel, .link-wrapper .link {background-color: transparent;}
